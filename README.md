@@ -1,1 +1,1 @@
-git clone https://github.com/yourusername/V2ray-Tester-Pro.git
+git clone https://github.com/zeyadhani43/V2ray-Tester-Pro.git
